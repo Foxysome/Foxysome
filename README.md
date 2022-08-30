@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Foxysome
 - 👀 I’m interested in: Web development/design.
 - 🌱 I’m currently learning: Responsive web design.
-- 💞️ I’m looking to collaborate...
 - 📫 How to reach me: mjandera.ment@gmail.com
 
 <!---
