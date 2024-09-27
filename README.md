@@ -2,7 +2,6 @@
 - 👀 I’m interested in: Web development/design.
 - 🌱 I’m currently learning: Responsive web design.
 - 📫 How to reach me: mjandera.ment@gmail.com
- <img src="">
 
 <!---
 Foxysome/Foxysome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
